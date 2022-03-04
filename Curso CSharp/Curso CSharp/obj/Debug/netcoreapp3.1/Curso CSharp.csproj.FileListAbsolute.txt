@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\obj\Debug\netcoreapp3.1\Curso CSharp.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\obj\Debug\netcoreapp3.1\Curso CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\obj\Debug\netcoreapp3.1\Curso CSharp.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\obj\Debug\netcoreapp3.1\Curso CSharp.AssemblyInfo.cs
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\obj\Debug\netcoreapp3.1\Curso CSharp.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\bin\Debug\netcoreapp3.1\Curso CSharp.exe
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\bin\Debug\netcoreapp3.1\Curso CSharp.deps.json
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\bin\Debug\netcoreapp3.1\Curso CSharp.runtimeconfig.json
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\bin\Debug\netcoreapp3.1\Curso CSharp.runtimeconfig.dev.json
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\bin\Debug\netcoreapp3.1\Curso CSharp.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\bin\Debug\netcoreapp3.1\Curso CSharp.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\obj\Debug\netcoreapp3.1\Curso CSharp.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\obj\Debug\netcoreapp3.1\Curso CSharp.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\Curso CSharp\Curso CSharp\obj\Debug\netcoreapp3.1\Curso CSharp.genruntimeconfig.cache
