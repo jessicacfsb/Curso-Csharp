@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.exe
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.deps.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.runtimeconfig.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.runtimeconfig.dev.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.AssemblyInfo.cs
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.exe
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.deps.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.runtimeconfig.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.runtimeconfig.dev.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\bin\Debug\netcoreapp3.1\MetodoEstatico.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.AssemblyInfo.cs
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\MetodoEstatico\MetodoEstatico\obj\Debug\netcoreapp3.1\MetodoEstatico.genruntimeconfig.cache

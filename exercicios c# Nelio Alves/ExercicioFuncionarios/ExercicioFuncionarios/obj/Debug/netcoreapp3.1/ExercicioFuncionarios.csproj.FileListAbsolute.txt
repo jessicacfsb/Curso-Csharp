@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\netcoreapp3.1\ExercicioFuncionarios.exe
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\netcoreapp3.1\ExercicioFuncionarios.deps.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\netcoreapp3.1\ExercicioFuncionarios.runtimeconfig.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\netcoreapp3.1\ExercicioFuncionarios.runtimeconfig.dev.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\netcoreapp3.1\ExercicioFuncionarios.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\netcoreapp3.1\ExercicioFuncionarios.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.AssemblyInfo.cs
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\netcoreapp3.1\ExercicioFuncionarios.genruntimeconfig.cache
