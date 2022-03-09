@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache

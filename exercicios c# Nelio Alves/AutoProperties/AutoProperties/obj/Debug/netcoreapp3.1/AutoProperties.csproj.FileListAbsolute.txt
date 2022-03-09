@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.exe
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.deps.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.runtimeconfig.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.runtimeconfig.dev.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.AssemblyInfo.cs
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.genruntimeconfig.cache
