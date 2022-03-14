@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoalescenciaNula/1.0.0": {
+        "runtime": {
+          "CoalescenciaNula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoalescenciaNula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

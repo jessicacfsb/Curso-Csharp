@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\bin\Debug\netcoreapp3.1\CoalescenciaNula.exe
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\bin\Debug\netcoreapp3.1\CoalescenciaNula.deps.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\bin\Debug\netcoreapp3.1\CoalescenciaNula.runtimeconfig.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\bin\Debug\netcoreapp3.1\CoalescenciaNula.runtimeconfig.dev.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\bin\Debug\netcoreapp3.1\CoalescenciaNula.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\bin\Debug\netcoreapp3.1\CoalescenciaNula.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\obj\Debug\netcoreapp3.1\CoalescenciaNula.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\obj\Debug\netcoreapp3.1\CoalescenciaNula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\obj\Debug\netcoreapp3.1\CoalescenciaNula.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\obj\Debug\netcoreapp3.1\CoalescenciaNula.AssemblyInfo.cs
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\obj\Debug\netcoreapp3.1\CoalescenciaNula.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\obj\Debug\netcoreapp3.1\CoalescenciaNula.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\obj\Debug\netcoreapp3.1\CoalescenciaNula.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\CoalescenciaNula\CoalescenciaNula\obj\Debug\netcoreapp3.1\CoalescenciaNula.genruntimeconfig.cache
