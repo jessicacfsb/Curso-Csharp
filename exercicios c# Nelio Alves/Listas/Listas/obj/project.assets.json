@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Encapsulamento/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Encapsulamento/1.0.0": {
-      "type": "project",
-      "path": "../Encapsulamento/Encapsulamento.csproj",
-      "msbuildProject": "../Encapsulamento/Encapsulamento.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Encapsulamento >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\six\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\six\\Desktop\\Curso C# - Cod3r\\Curso CSharp\\Curso CSharp\\CursoCSharp.csproj",
-      "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\six\\Desktop\\Curso C# - Cod3r\\Curso CSharp\\Curso CSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\six\\Desktop\\Curso C# - Cod3r\\exercicios c# Nelio Alves\\Listas\\Listas\\Listas.csproj",
+      "projectName": "Listas",
+      "projectPath": "C:\\Users\\six\\Desktop\\Curso C# - Cod3r\\exercicios c# Nelio Alves\\Listas\\Listas\\Listas.csproj",
       "packagesPath": "C:\\Users\\six\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\six\\Desktop\\Curso C# - Cod3r\\Curso CSharp\\Curso CSharp\\obj\\",
+      "outputPath": "C:\\Users\\six\\Desktop\\Curso C# - Cod3r\\exercicios c# Nelio Alves\\Listas\\Listas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,11 +37,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\six\\Desktop\\Curso C# - Cod3r\\Curso CSharp\\Encapsulamento\\Encapsulamento.csproj": {
-              "projectPath": "C:\\Users\\six\\Desktop\\Curso C# - Cod3r\\Curso CSharp\\Encapsulamento\\Encapsulamento.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
