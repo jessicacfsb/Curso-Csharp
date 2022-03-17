@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Encapsulamento {
-    class AmigoProximo {
+    public class AmigoProximo {
 
         //nao é filho entao não recebe herança / cria-se uma instancia para acessar
         public readonly SubCelebridade amigo = new SubCelebridade();
 
         public void MeusAcessos() {
+            Console.WriteLine();
             Console.WriteLine("Amigo Próximo... ");
 
             Console.WriteLine(amigo.InfoPublica);

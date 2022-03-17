@@ -7,6 +7,7 @@ namespace CursoCSharp.OO {
 
     public class FilhoNaoReconhecido : SubCelebridade {
         public new void MeusAcessos() {
+            Console.WriteLine();
             Console.WriteLine("Filho Não Reconhecido... ");
 
             Console.WriteLine(InfoPublica);
@@ -22,6 +23,7 @@ namespace CursoCSharp.OO {
         public readonly SubCelebridade amigo = new SubCelebridade();
 
         public void MeusAcessos() {
+            Console.WriteLine();
             Console.WriteLine("Amigo Distante...");
 
             Console.WriteLine(amigo.InfoPublica);
@@ -35,6 +37,14 @@ namespace CursoCSharp.OO {
 
     class Encapsulamento {
         public static void Executar() {
+            SubCelebridade sub = new SubCelebridade();
+            sub.MeusAcessos();
+
+            new FilhoReconhecido().MeusAcessos();
+            new AmigoProximo().MeusAcessos();
+
+            new FilhoNaoReconhecido().MeusAcessos();
+            new AmigoDistante().MeusAcessos();
 
         }
     }
