@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.exe
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.deps.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.runtimeconfig.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.runtimeconfig.dev.json
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.AssemblyInfo.cs
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.dll
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.pdb
+C:\Users\six\Desktop\Curso C# - Cod3r\exercicios c# Nelio Alves\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.genruntimeconfig.cache
